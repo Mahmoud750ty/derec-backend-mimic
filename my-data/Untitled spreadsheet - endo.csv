@@ -1,0 +1,7 @@
+Cold Test,,Cold Test Detail,,Percussion Test,,Palpation,,Code number,ICD10 description
+Positive,,lingering,,Painful,,Any,,K04.02 + K04.4,Irreversible pulpitis with symptomatic apical periodontitis
+Positive,,lingering,,Not painful,,Any,,K04.02,Irreversible pulpitis
+Positive,,stimulus,,Not painful,,Any,,K04.01,Reversible pulpitis
+Negative,,,,Painful,,Painful,,K04.1 + K04.7,Necrotic pulp with acute apical abscess
+Negative,,,,Painful,,Not painful,,K04.1 + K04.5,Necrotic pulp with chronic apical periodontitis
+Negative,,,,Not painful,,Negative,,K04.1,Necrosis of pulp

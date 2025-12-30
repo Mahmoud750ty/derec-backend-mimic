@@ -1,0 +1,251 @@
+UX Journey for the tooth
+On the Tooth Page we have
+-Actions:
+    -reset
+    -to be extracted
+    -missing
+    -pathology
+    -restoration
+-Pathology
+  -Decay
+    - tooth graphic (to be done)
+    - aspects ( Bu  ccal, Labial, Lingual (lower) / Palatal (upper), Mesial, Distal, Occlusal (posterior) / Incisal (anterior) )
+    - detail (depth)
+      - Enamel
+        - Cavitated
+          - C1
+          - C2
+          - C3
+          - C4
+        - Not Cavitated
+          - C1
+          - C2
+          - C3
+          - C4
+      - Dentin
+        - Cavitated
+          - C1
+          - C2
+          - C3
+          - C4
+        - Not Cavitated
+          - C1
+          - C2
+          - C3
+          - C4
+  
+  -Fracture
+    - tooth graphic (to be done)
+    - aspects (none)
+    - types
+      - Crown Fracture
+      - Root Fracture
+        - Vertical
+        - Horizontal
+  
+  -Tooth Wear
+    - tooth graphic (to be done)
+    - aspects (none)
+    - types
+      - Abrasion
+      - Erosion
+     - location
+       - Buccal
+      - Lingual
+    -Discoloration
+        -aspects (none)
+        -color 
+          -red
+          -gray
+          -yellow
+        
+    -Apical
+        -aspects (none)
+        -present 
+          -Yes
+          -No
+    -Development Disorder
+        -aspects (none)
+        -present 
+          -Yes
+          -No
+-Restoration
+  -Filling
+    - tooth graphic (shows filling area)
+    - aspects (surfaces)
+      - Mesial
+      - Distal  
+      - Occlusal
+      - Buccal
+      - Lingual/Palatal
+      - Cervical Buccal
+      - Cervical Lingual
+      - Buccal Cusp
+      - Lingual Cusp
+      - Buccal Surface
+      - Lingual Surface
+    - MATERIAL
+      - Composite
+      - Ceramic
+      - Amalgam
+      - Gold
+      - Non-Precious Metal
+      - Temporary
+    - QUALITY
+      - Sufficient
+      - Uncertain
+      - Insufficient
+    - DETAIL
+      - Overhang
+      - Flush
+      - Shortfall
+  
+  -Inlay
+    - tooth graphic (shows inlay area)
+    - aspects (surfaces)
+      - Mesial
+      - Distal
+      - Occlusal
+    - MATERIAL
+      - Composite
+      - Ceramic
+      - Gold
+      - Non-Precious Metal
+    - QUALITY
+      - Sufficient
+      - Uncertain
+      - Insufficient
+    - DETAIL
+      - Flush
+  
+  -Onlay
+    - tooth graphic (shows onlay coverage)
+    - aspects (surfaces)
+      - Mesial
+      - Distal
+      - Buccal
+      - Lingual
+    - MATERIAL
+      - Composite
+      - Ceramic
+      - Gold
+      - Non-Precious Metal
+    - no QUALITY section
+    - no DETAIL section
+  
+  -Veneer
+    - tooth graphic (shows veneer coverage)
+    - aspects (surfaces)
+      - Buccal
+      - Lingual
+    - MATERIAL
+      - Composite
+      - Ceramic
+    - QUALITY
+      - Sufficient
+      - Uncertain
+      - Insufficient
+    - no DETAIL section
+  
+  -Partial Crown
+    - tooth graphic (shows partial crown coverage)
+    - aspects (surfaces)
+      - Buccal
+      - Lingual
+    - MATERIAL
+      - Composite
+      - Ceramic
+      - Gold
+      - Non-Precious Metal
+    - QUALITY
+      - Sufficient
+      - Uncertain
+      - Insufficient
+    - no DETAIL section
+  
+  -Crown
+    - tooth graphic (shows full crown)
+    - no aspects section
+    - MATERIAL
+      - Composite
+      - Ceramic
+      - Gold
+      - Non-Precious Metal
+    - CROWN TYPE
+      - Single Crown
+      - Abutment
+      - Pontic
+    - CROWN BASE
+      - Natural
+      - Implant
+    - IMPLANT TYPE (if Implant selected)
+      - Bone level
+      - Tissue level
+    - no QUALITY section
+    - no DETAIL section
+  
+ - missing
+   -Yes
+   -No
+ - To be extracted
+   -Yes
+   -No
+-Treatments Planned
+(list of treatments planned)
+-Endodontic inspection
+    - Cold Test
+        - Positive
+            - Within limits
+            - Unpleasant
+                - confirm Unpleasant reaction to cold tooth XX
+            - Pain stimulus
+                - confirm Reversible pulpitis to tooth XX?
+            - Pain lingering
+        - Uncertain
+        - Negative
+        - Not applicable
+            - Existing Root canal Treatment
+                - confirm history (Previously root canal treated tooth XX with normal apical tissues)
+            - Previously Initiated Therapy
+    - Percussion Test
+        -Not painful
+            -confirm Previously initiated root canal treatment tooth XX with normal apical tissues
+        -Unpleasant
+        -Painful
+            -Previously initiated root canal treatment tooth XX with symptomatic apical periodontitis
+    - Palpation Test
+        -Not painful
+        -Unpleasant
+        -Painful
+    - Heat Test
+        -Positive
+            -Within limits
+            -Unpleasant
+            -Pain stimulus
+            -Pain lingering
+        -Uncertain
+        -Negative
+        -Not applicable
+    - Electricity Test
+        - selection from 1 to 10
+-Periodonal Probing
+    - Selection from
+        - Disto Palatal
+        - Palatal
+        - Mesio Palatal
+        - Disto Buccal
+        - Buccal
+        - Mesio Buccal
+    - PROBING DEPTH
+        from 0 to 12 and >12
+    -GINGIVAL MARGIN
+        from 0 to -12 and <-12 and +/- switcher with 0 to 7
+    -Additional Information
+        - Bleeding (red)
+        - Plaque (blue)
+        - Pus (yellow)
+        - Tartar (black)
+    Tooth Mobility
+        - Class 1 (one arrow left and right)
+        - Class 2 (two arrows left and right)
+        - Class 3 (three arrows left and right )

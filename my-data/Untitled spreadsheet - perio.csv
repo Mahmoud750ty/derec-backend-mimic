@@ -1,0 +1,19 @@
+Probing Depth,,Gingival Margin,,CAL,,BOP,,Plaque,,Age,,% Teeth,,Code number,,ICD10 description
+0-3,,0,,0-3,,No,,Any,,Any,,Any,,-,,Healthy
+0-3,,0,,0-3,,Yes,,Yes,,Any,,Any,,K05.10,,Chronic plaque gingivitis
+0-3,,0,,0-3,,Yes,,No,,Any,,Any,,K05.01,,Acute non-plaque gingivitis
+0-3,,-1 to -2,,1-2,,Any,,Any,,Any,,<30%,,K06.011,,Localized recession minimal
+0-3,,-3 to -4,,3-4,,Any,,Any,,Any,,<30%,,K06.012,,Localized recession moderate
+0-3,,-5+,,≥5,,Any,,Any,,Any,,<30%,,K06.013,,Localized recession severe
+4-5,,Any,,1-2,,Any,,Any,,<30,,<30%,,K05.211,,Localized aggressive slight
+4-5,,Any,,1-2,,Any,,Any,,≥30,,<30%,,K05.311,,Localized chronic slight
+4-5,,Any,,1-2,,Any,,Any,,<30,,≥30%,,K05.221,,Generalized aggressive slight
+4-5,,Any,,1-2,,Any,,Any,,≥30,,≥30%,,K05.321,,Generalized chronic slight
+5-6,,Any,,3-4,,Any,,Any,,<30,,<30%,,K05.212,,Localized aggressive moderate
+5-6,,Any,,3-4,,Any,,Any,,≥30,,<30%,,K05.312,,Localized chronic moderate
+5-6,,Any,,3-4,,Any,,Any,,<30,,≥30%,,K05.222,,Generalized aggressive moderate
+5-6,,Any,,3-4,,Any,,Any,,≥30,,≥30%,,K05.322,,Generalized chronic moderate
+>6,,Any,,≥5,,Any,,Any,,<30,,<30%,,K05.213,,Localized aggressive severe
+>6,,Any,,≥5,,Any,,Any,,≥30,,<30%,,K05.313,,Localized chronic severe
+>6,,Any,,≥5,,Any,,Any,,<30,,≥30%,,K05.223,,Generalized aggressive severe
+>6,,Any,,≥5,,Any,,Any,,≥30,,≥30%,,K05.323,,Generalized chronic severe

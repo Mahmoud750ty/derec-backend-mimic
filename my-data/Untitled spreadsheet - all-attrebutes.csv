@@ -1,0 +1,175 @@
+,Category,Attribute 1,Attribute 2,Attribute 3,Value,ICD-10 Code,ICD-10 Description
+,caries,,,,,,
+,caries,Aspects,,,Buccal,K02.52,Caries on smooth surface
+,caries,Aspects,,,Labial,K02.52,Caries on smooth surface
+,caries,Aspects,,,Lingual,K02.52,Caries on smooth surface
+,caries,Aspects,,,Palatal,K02.52,Caries on smooth surface
+,caries,Aspects,,,Mesial,K02.52,Caries on smooth surface
+,caries,Aspects,,,Distal,K02.52,Caries on smooth surface
+,caries,Aspects,,,Occlusal,K02.51,Caries on pit and fissure
+,caries,Aspects,,,Incisal,K02.51,Caries on pit and fissure
+,caries,Aspects,,,Cervical Buccal,K02.53,Caries on root surface
+,caries,Aspects,,,Cervical Palatal,K02.53,Caries on root surface
+,caries,Depth,,,Enamel,K02.0,Caries limited to enamel
+,caries,Depth,,,Dentin,K02.1,Caries of dentine
+,caries,Depth,Cavitation,,Cavitated,-,
+,caries,Depth,Cavitation,,Not Cavitated,K02.3,Arrested dental caries
+,caries,Depth,Cavitation,Classification,C1,,
+,caries,Depth,Cavitation,Classification,C2,,
+,caries,Depth,Cavitation,Classification,C3,,
+,caries,Depth,Cavitation,Classification,C4,,
+,,,,,,,
+,Fracture,,,,,,
+,Fracture,Type,,,Crown Fracture,S02.5,Fracture of tooth
+,Fracture,Type,,,Root Fracture,S02.5,Fracture of tooth
+,Fracture,Type,Direction,,Vertical,S02.5,Vertical root fracture
+,Fracture,Type,Direction,,Horizontal,S02.5,Horizontal root fracture
+,,,,,,,
+,Tooth Wear,,,,,,
+,Tooth Wear,Type,,,Abrasion,K03.1,Abrasion of teeth
+,Tooth Wear,Type,,,Erosion,K03.2,Erosion of teeth
+,Tooth Wear,Type,Location,,Buccal,K03.1,
+,Tooth Wear,Type,Location,,Lingual,K03.2,
+,,,,,,,
+,Discoloration,,,,,,
+,Discoloration,Color,,,Red,K03.7,Posteruptive color changes
+,Discoloration,Color,,,Gray,K03.7,Posteruptive color changes
+,Discoloration,Color,,,Yellow,K03.7,Posteruptive color changes
+,,,,,,,
+restoration,Filling,,,,,,
+restoration,Filling,Aspects,,,Mesial,-,
+restoration,Filling,Aspects,,,Distal,-,
+restoration,Filling,Aspects,,,Occlusal,-,
+restoration,Filling,Aspects,,,Buccal,-,
+restoration,Filling,Aspects,,,Lingual,-,
+restoration,Filling,Aspects,,,Palatal,-,
+restoration,Filling,Aspects,,,Cervical Buccal,-,
+restoration,Filling,Aspects,,,Cervical Lingual,-,
+restoration,Filling,Aspects,,,Buccal Cusp,-,
+restoration,Filling,Aspects,,,Lingual Cusp,-,
+restoration,Filling,Aspects,,,Buccal Surface,-,
+restoration,Filling,Aspects,,,Lingual Surface,-,
+restoration,Filling,Material,,,Composite,-,
+restoration,Filling,Material,,,Ceramic,-,
+restoration,Filling,Material,,,Amalgam,-,
+restoration,Filling,Material,,,Gold,-,
+restoration,Filling,Material,,,Non-Precious Metal,-,
+restoration,Filling,Material,,,Temporary,-,
+restoration,Filling,Material,Quality,,Sufficient,-,
+restoration,Filling,Material,Quality,,Uncertain,-,
+restoration,Filling,Material,Quality,,Insufficient,K08.53,Fractured rest matrl
+restoration,Filling,Material,Quality,Detail,Overhang,-,
+restoration,Filling,Material,Quality,Detail,Flush,-,
+restoration,Filling,Material,Quality,Detail,Shortfall,-,
+,,,,,,,
+restoration,Veneer,,,,,,
+restoration,Veneer,Aspects,,,Buccal,-,
+restoration,Veneer,Aspects,,,Lingual,-,
+restoration,Veneer,Material,,,Composite,-,
+restoration,Veneer,Material,,,Ceramic,-,
+restoration,Veneer,Material,Quality,,Sufficient,-,
+restoration,Veneer,Material,Quality,,Uncertain,-,
+restoration,Veneer,Material,Quality,,Insufficient,K08.53,Fractured rest matrl
+,,,,,,,
+restoration,Crown,,,,,,
+restoration,Crown,Material,,,Composite,-,
+restoration,Crown,Material,,,Ceramic,-,
+restoration,Crown,Material,,,Gold,-,
+restoration,Crown,Material,,,Non-Precious Metal,-,
+restoration,Crown,Crown Type,,,Single Crown,-,
+restoration,Crown,Crown Type,,,Abutment,K08.1,Bridge support
+restoration,Crown,Crown Type,,,Pontic,K08.4,Replaces missing
+restoration,Crown,Crown Type,Crown Base,,Natural,,
+restoration,Crown,Crown Type,Crown Base,,Implant,,
+restoration,Crown,Crown Type,Crown Base,Implant Type,Bone level,,
+restoration,Crown,Crown Type,Crown Base,Implant Type,Tissue level,,
+,,,,,,,
+,Endodontic,,,,,,
+,Endodontic,Cold Test,,,Positive,-,
+,Endodontic,Cold Test,,,Uncertain,-,
+,Endodontic,Cold Test,,,Negative,K04.1,Necrosis of pulp
+,Endodontic,Cold Test,,,Not Applicable,-,
+,Endodontic,Cold Test,Positive Detail,,Within Limits,-,
+,Endodontic,Cold Test,Positive Detail,,Unpleasant,-,
+,Endodontic,Cold Test,Positive Detail,,Pain Stimulus,K04.01,Reversible pulpitis
+,Endodontic,Cold Test,Positive Detail,,Pain Lingering,K04.02,Irreversible pulpitis
+,Endodontic,Cold Test,N/A Reason,,Existing RCT,,
+,Endodontic,Cold Test,N/A Reason,,Previously Initiated,-,
+,Endodontic,Percussion Test,,,Not Painful,-,
+,Endodontic,Percussion Test,,,Unpleasant,K04.4,Symptomatic apical perio
+,Endodontic,Percussion Test,,,Painful,K04.4,Symptomatic apical perio
+,Endodontic,Palpation Test,,,Not Painful,-,
+,Endodontic,Palpation Test,,,Unpleasant,K04.4,Symptomatic apical perio
+,Endodontic,Palpation Test,,,Painful,K04.7,Periapical abscess
+,Endodontic,Heat Test,,,Positive,-,
+,Endodontic,Heat Test,,,Uncertain,-,
+,Endodontic,Heat Test,,,Negative,K04.1,Necrosis of pulp
+,Endodontic,Heat Test,,,Not Applicable,-,
+,Endodontic,Heat Test,Positive Detail,,Within Limits,-,
+,Endodontic,Heat Test,Positive Detail,,Unpleasant,-,
+,Endodontic,Heat Test,Positive Detail,,Pain Stimulus,K04.01,Reversible pulpitis
+,Endodontic,Heat Test,Positive Detail,,Pain Lingering,K04.02,Irreversible pulpitis
+,Endodontic,Electricity Test,,,1,K04.02,Irreversible pulpitis
+,Endodontic,Electricity Test,,,2,K04.02,Irreversible pulpitis
+,Endodontic,Electricity Test,,,3,K04.02,Irreversible pulpitis
+,Endodontic,Electricity Test,,,4,-,
+,Endodontic,Electricity Test,,,5,-,
+,Endodontic,Electricity Test,,,6,-,
+,Endodontic,Electricity Test,,,7,K04.01,Reversible pulpitis
+,Endodontic,Electricity Test,,,8,K04.01,Reversible pulpitis
+,Endodontic,Electricity Test,,,9,K04.01,Reversible pulpitis
+,Endodontic,Electricity Test,,,10,K04.1,Necrosis of pulp
+,,,,,,,
+,Missing,,,,,,
+,Missing,Status,,,Yes,K08.4,Partial loss of teeth
+,Missing,Status,,,No,,
+,,,,,,,
+,Periodontal,,,,,,
+,Periodontal,Site,,,Disto Palatal,,
+,Periodontal,Site,,,Palatal,,
+,Periodontal,Site,,,Mesio Palatal,,
+,Periodontal,Site,,,Disto Buccal,,
+,Periodontal,Site,,,Buccal,,
+,Periodontal,Site,,,Mesio Buccal,,
+,Periodontal,Probing Depth,,,0,,
+,Periodontal,Probing Depth,,,1,,
+,Periodontal,Probing Depth,,,2,,
+,Periodontal,Probing Depth,,,3,,
+,Periodontal,Probing Depth,,,4,,
+,Periodontal,Probing Depth,,,5,,
+,Periodontal,Probing Depth,,,6,,
+,Periodontal,Probing Depth,,,7,,
+,Periodontal,Probing Depth,,,8,,
+,Periodontal,Probing Depth,,,9,,
+,Periodontal,Probing Depth,,,10,,
+,Periodontal,Probing Depth,,,11,,
+,Periodontal,Probing Depth,,,12,,
+,Periodontal,Probing Depth,,,>12,,
+,Periodontal,Gingival Margin,,,0,-,
+,Periodontal,Gingival Margin,,,-1,,
+,Periodontal,Gingival Margin,,,-2,,
+,Periodontal,Gingival Margin,,,-3,,
+,Periodontal,Gingival Margin,,,-4,,
+,Periodontal,Gingival Margin,,,-5,,
+,Periodontal,Gingival Margin,,,-6,,
+,Periodontal,Gingival Margin,,,-7,,
+,Periodontal,Gingival Margin,,,-8,,
+,Periodontal,Gingival Margin,,,-9,,
+,Periodontal,Gingival Margin,,,-10,,
+,Periodontal,Gingival Margin,,,-11,,
+,Periodontal,Gingival Margin,,,-12,,
+,Periodontal,Gingival Margin,,,<-12,,
+,Periodontal,Gingival Margin,,,+1,K06.1,Gingival enlargement
+,Periodontal,Gingival Margin,,,+2,K06.1,Gingival enlargement
+,Periodontal,Gingival Margin,,,+3,K06.1,Gingival enlargement
+,Periodontal,Gingival Margin,,,+4,K06.1,Gingival enlargement
+,Periodontal,Gingival Margin,,,+5,K06.1,Gingival enlargement
+,Periodontal,Gingival Margin,,,+6,K06.1,Gingival enlargement
+,Periodontal,Gingival Margin,,,+7,K06.1,Gingival enlargement
+,Periodontal,Additional Information,,,Bleeding,,
+,Periodontal,Additional Information,,,Plaque,,
+,Periodontal,Additional Information,,,Pus,,
+,Periodontal,Additional Information,,,Tartar,,
+,Periodontal,Tooth Mobility,,,Class 1,,
+,Periodontal,Tooth Mobility,,,Class 2,,
+,Periodontal,Tooth Mobility,,,Class 3,,
